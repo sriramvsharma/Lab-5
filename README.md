@@ -4,3 +4,4 @@ Elena Diana.
 Sophia Torres.  
 Hunter Paulson.   
 Shriram Sharma.   
+Minnie Tsai
