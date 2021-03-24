@@ -1,5 +1,5 @@
 # Lab-5
-Evan Teichman - Interviewed Sophia Ternes. 
+Evan Teichman - Interviewed Sophia Ternes.   
 Elena Diana - Interviewed Hunter Paulson.  
 Sophia Ternes - Interviewed Evan Teichman.  
 Hunter Paulson - Interviewed Elena Diana.   
