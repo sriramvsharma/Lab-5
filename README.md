@@ -1,7 +1,7 @@
 # Lab-5
-Evan Teichman  
-Elena Diana.  
-Sophia Ternes.  
-Hunter Paulson.   
-Shriram Sharma.   
-Minnie Tsai
+Evan Teichman - Interviewed Sophia Ternes. 
+Elena Diana - Interviewed Hunter Paulson.  
+Sophia Ternes - Interviewed Evan Teichman.  
+Hunter Paulson - Interviewed Elena Diana.   
+Shriram Sharma - Interviewed Minnie Tsai.   
+Minnie Tsai - Interviewed Shriram Sharma.
